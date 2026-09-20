@@ -1,7 +1,30 @@
+body {
+  width: 650px;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
 h1 {
-  color: purple;
+  font-family: "Times New Roman", serif;
+  font-size: 32px;
+  text-align: left;
+  margin-bottom: 0;
+  border-bottom: 1px solid #aaa;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin-bottom: 25px;
 }
 
 p {
-  color: brown;
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: justify;
+  text-indent: 30px;
+}
+
+b {
+  font-weight: bold;
 }
